@@ -1,0 +1,58 @@
+.about-section {
+    padding: 4rem;
+    margin: 2rem;
+    text-align: center;
+    justify-content: center;
+    gap: 2rem;
+
+}
+
+.about-header {
+    font-size: 1.5rem;
+}
+
+.about-description {
+    font-size: 1.5rem;
+    border-radius: 2rem;
+    border: 1px solid black;
+    padding: 2rem;
+}
+
+.div1 {
+    display: block;
+}
+
+.about-description2 {
+    font-size: 1.5rem;
+    padding: 3rem;
+    border-radius: 2rem;
+    border: 1px solid black;
+}
+
+.about-description3 {
+    font-size: 1.5rem;
+    padding: 2rem;
+    border-radius: 2rem;
+    border: 1px solid black;
+}
+
+.about-description4 {
+    font-size: 1.5rem;
+    padding: 2rem;
+    border-radius: 2rem;
+    border: 1px solid black;
+}
+
+.about-skills-header{
+    font-size: 2rem;
+}
+.about-skills-list {
+    list-style: none;
+    font-size: 2rem;
+    display: flex;
+    gap: 5rem;
+    text-align: center;
+    justify-content: center;
+}
+
+

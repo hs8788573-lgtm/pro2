@@ -1,0 +1,42 @@
+
+.intro{
+    width: fit-content;
+    padding: 3rem;
+    gap: 2rem;
+    margin: auto;
+    text-align: center;
+    justify-content: center;
+}
+.intro-content{
+    text-align: center;
+    justify-content: center;
+    padding: 1rem;
+}
+.hello{
+    font-size: 3rem;
+}
+.name{
+    font-size: 3rem;
+}
+.par{
+    font-size: medium;
+
+}
+.hire-btn {
+  background: linear-gradient(90deg, #007bff, #00b4d8); /* blue gradient */
+  color: white;
+  border: none;
+  padding: 12px 28px;
+  border-radius: 8px;
+  font-size: 1.1rem;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 10px rgba(0, 123, 255, 0.3);
+}
+
+/* Hover Effect */
+.hire-btn:hover {
+  transform: scale(1.05); /* slight zoom */
+  background: linear-gradient(90deg, #00b4d8, #007bff); /* reverse gradient */
+  box-shadow: 0 6px 14px rgba(0, 123, 255, 0.5);
+}
