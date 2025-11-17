@@ -4,6 +4,10 @@ import Header from './components/Header';
 import About from './components/About';
 import Detials from './components/Detials';
 import Project from './components/Project';
+import Login from './components/Login';
+
+
+
 
 const App: React.FC = () => {
   return (
@@ -18,6 +22,8 @@ const App: React.FC = () => {
        <main/>
          <Project/>
        <main/>
+       <Login>
+       </Login>
     </>
   );
 };
