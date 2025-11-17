@@ -2,6 +2,8 @@
   --main-color: #007bff;
   background-color: #D9CFC7;
   color: #435663;
+   width: 100%;
+  overflow-x: hidden;
 }
 
 
